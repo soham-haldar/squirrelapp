@@ -1,0 +1,153 @@
+:root {
+    --primary-brown: #614531;
+    --light-brown: #9a7354;
+    --lighter-brown: #ece0d1;
+    --dark-brown: #38220f;
+    --hover-brown: #634832;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #c5a884;
+  }
+
+  .filters,
+  .crud-form {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: var(--lighter-brown);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .crud-form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+  }
+
+  .crud-form input,
+  .crud-form select {
+    padding: 8px;
+    border: 1px solid var(--light-brown);
+    border-radius: 4px;
+    width: 100%;
+  }
+
+  .filters {
+    display: flex;
+    gap: 10px;
+  }
+
+  .filters input {
+    padding: 8px;
+    border: 1px solid var(--light-brown);
+    border-radius: 4px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.2),
+        rgba(255, 255, 255, 0.2)
+      ),
+      url("/squirrel-background.jpg");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+
+  #updateModal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+  }
+
+  .modal-content {
+    background-color: var(--primary-brown);
+    color: var(--light-brown);
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 100%;
+  }
+
+  th,
+  td {
+    padding: 12px;
+    border: 1px solid var(--light-brown);
+    text-align: left;
+  }
+
+  th {
+    background-color: var(--primary-brown);
+    color: white;
+    cursor: pointer;
+  }
+
+  th:hover {
+    background-color: var(--hover-brown);
+  }
+
+  /*tr:nth-child(even) {
+    background-color: var(--lighter-brown);
+  }*/
+
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  button {
+    padding: 8px 16px;
+    border: none;
+    background: var(--dark-brown);
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  button:hover {
+    background-color: var(--hover-brown);
+  }
+
+  button:disabled {
+    background-color: var(--primary-brown);
+    cursor: not-allowed;
+  }
+
+  .action-buttons {
+    display: flex;
+    gap: 5px;
+  }
+
+  .action-buttons button {
+    padding: 10px 12px;
+    font-size: 0.9m;
+
+  }
+
+  .delete-btn {
+    background-color: #782504;
+  }
+
+  .delete-btn:hover {
+    background-color: #a52a2a;
+  }

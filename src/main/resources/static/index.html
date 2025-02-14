@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Squirrel Sightings</title>
+    <link rel="icon" type="image/png" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h2>Squirrel Table</h2>
+
+    <div id="updateModal" style="display: none">
+      <div class="modal-content">
+        <h3>Edit Squirrel</h3>
+        <input type="text" id="updateSquirrelId" disabled />
+        <input type="text" id="updateAreaId" placeholder="Area ID" />
+        <input type="text" id="updateAreaName" placeholder="Area Name" />
+        <input type="text" id="updateParkId" placeholder="Park ID" />
+        <input type="text" id="updateParkName" placeholder="Park Name" />
+        <input type="text" id="updateFurColor" placeholder="Fur Color" />
+        <input type="text" id="updateLocation" placeholder="Location" />
+        <input type="text" id="updateActivities" placeholder="Activities" />
+        <input type="text" id="updateInteractions" placeholder="Interactions" />
+        <input type="text" id="updateNotes" placeholder="Notes" />
+        <button onclick="submitUpdate()">Save Changes</button>
+        <button onclick="closeModal()">Cancel</button>
+      </div>
+    </div>
+
+    <div class="crud-form">
+      <input type="text" id="areaId" placeholder="Area ID" />
+      <input type="text" id="areaName" placeholder="Area Name" />
+      <input type="text" id="parkId" placeholder="Park ID" />
+      <input type="text" id="parkName" placeholder="Park Name" />
+      <input type="text" id="squirrelId" placeholder="Squirrel ID" />
+      <input type="text" id="furColor" placeholder="Fur Color" />
+      <input type="text" id="location" placeholder="Location" />
+      <input type="text" id="activities" placeholder="Activities" />
+      <input type="text" id="interactions" placeholder="Interactions" />
+      <input type="text" id="notes" placeholder="Notes" />
+      <button onclick="createSquirrel()">Add New Squirrel</button>
+    </div>
+
+    <div class="filters">
+      <input type="text" id="areaFilter" placeholder="Filter by Area..." />
+      <input type="text" id="parkFilter" placeholder="Filter by Park..." />
+      <input type="text" id="colorFilter" placeholder="Filter by Color..." />
+      <input
+        type="text"
+        id="squirrelIdFilter"
+        placeholder="Filter by Squirrel ID..."
+      />
+    </div>
+
+    <table id="squirrelTable">
+      <thead>
+        <tr>
+          <th data-sort="id">ID</th>
+          <th data-sort="squirrelId">Squirrel ID</th>
+          <th data-sort="areaId">Area ID</th>
+          <th data-sort="areaName">Area Name</th>
+          <th data-sort="parkId">Park ID</th>
+          <th data-sort="parkName">Park Name</th>
+          <th data-sort="furColor">Color</th>
+          <th>Location</th>
+          <th>Activities</th>
+          <th>Interactions</th>
+          <th>Notes</th>
+          <th>Actions</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <div class="pagination">
+      <button id="prevPage">Previous</button>
+      <span id="pageInfo">Page 1 of 1</span>
+      <button id="nextPage">Next</button>
+    </div>
+
+    <script>
+      let squirrels = [];
+      let filteredSquirrels = [];
+      let currentPage = 1;
+      const itemsPerPage = 10;
+      let currentSort = { field: null, direction: "asc" };
+
+      async function fetchSquirrels() {
+        try {
+          const response = await fetch("http://localhost:8080/api/squirrels");
+          squirrels = await response.json();
+          if (!Array.isArray(squirrels)) {
+            squirrels = [squirrels];
+          }
+          filteredSquirrels = [...squirrels];
+          updateTable();
+        } catch (error) {
+          console.error("Error fetching data:", error);
+        }
+      }
+
+      async function createSquirrel() {
+        const newSquirrel = {
+          areaId: document.getElementById("areaId").value,
+          areaName: document.getElementById("areaName").value,
+          parkId: document.getElementById("parkId").value,
+          parkName: document.getElementById("parkName").value,
+          squirrelId: document.getElementById("squirrelId").value,
+          furColor: document.getElementById("furColor").value,
+          location: document.getElementById("location").value,
+          activities: document.getElementById("activities").value,
+          interactions: document.getElementById("interactions").value,
+          notes: document.getElementById("notes").value,
+        };
+
+        try {
+          const response = await fetch("http://localhost:8080/api/squirrels", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify(newSquirrel),
+          });
+
+          if (response.ok) {
+            document
+              .querySelectorAll(".crud-form input")
+              .forEach((input) => (input.value = ""));
+            await fetchSquirrels();
+          } else {
+            console.error("Failed to create squirrel");
+          }
+        } catch (error) {
+          console.error("Error:", error);
+        }
+      }
+
+      async function deleteSquirrel(id) {
+        if (confirm("Are you sure you want to delete this squirrel?")) {
+          try {
+            const response = await fetch(
+              `http://localhost:8080/api/squirrels/${id}`,
+              {
+                method: "DELETE",
+              }
+            );
+
+            if (response.ok) {
+              await fetchSquirrels();
+            } else {
+              console.error("Failed to delete squirrel");
+            }
+          } catch (error) {
+            console.error("Error:", error);
+          }
+        }
+      }
+
+      function updateSquirrel(squirrel) {
+        document.getElementById("updateSquirrelId").value = squirrel.squirrelId;
+        document.getElementById("updateAreaId").value = squirrel.areaId;
+        document.getElementById("updateAreaName").value = squirrel.areaName;
+        document.getElementById("updateParkId").value = squirrel.parkId;
+        document.getElementById("updateParkName").value = squirrel.parkName;
+        document.getElementById("updateFurColor").value = squirrel.furColor;
+        document.getElementById("updateLocation").value = squirrel.location;
+        document.getElementById("updateActivities").value = squirrel.activities;
+        document.getElementById("updateInteractions").value =
+          squirrel.interactions;
+        document.getElementById("updateNotes").value = squirrel.notes;
+
+        document.getElementById("updateSquirrelId").dataset.dbId = squirrel.id; // Store the database ID in a custom attribute
+
+        // Show modal
+        document.getElementById("updateModal").style.display = "flex";
+      }
+
+      function closeModal() {
+        document.getElementById("updateModal").style.display = "none";
+      }
+
+      async function submitUpdate() {
+        const squirrelId =
+          document.getElementById("updateSquirrelId").dataset.dbId; // Get the database ID from the custom attribute
+        const updatedSquirrel = {
+          squirrelId: document.getElementById("updateSquirrelId").value,
+          areaId: document.getElementById("updateAreaId").value,
+          areaName: document.getElementById("updateAreaName").value,
+          parkId: document.getElementById("updateParkId").value,
+          parkName: document.getElementById("updateParkName").value,
+          furColor: document.getElementById("updateFurColor").value,
+          location: document.getElementById("updateLocation").value,
+          activities: document.getElementById("updateActivities").value,
+          interactions: document.getElementById("updateInteractions").value,
+          notes: document.getElementById("updateNotes").value,
+        };
+
+        try {
+          const response = await fetch(
+            `http://localhost:8080/api/squirrels/${squirrelId}`,
+            {
+              method: "PUT",
+              headers: {
+                "Content-Type": "application/json",
+              },
+              body: JSON.stringify(updatedSquirrel),
+            }
+          );
+
+          if (response.ok) {
+            await fetchSquirrels(); 
+            alert("Updated squirrel!");
+            closeModal(); 
+          } else {
+            alert("Failed to update squirrel");
+          }
+        } catch (error) {
+          console.error("Error:", error);
+          alert("Failed to update squirrel");
+        }
+      }
+
+      function filterSquirrels() {
+        const area = document.getElementById("areaFilter").value.toLowerCase();
+        const park = document.getElementById("parkFilter").value.toLowerCase();
+        const color = document
+          .getElementById("colorFilter")
+          .value.toLowerCase();
+        const squirrelId = document
+          .getElementById("squirrelIdFilter")
+          .value.toLowerCase();
+
+        filteredSquirrels = squirrels.filter(
+          (squirrel) =>
+            squirrel.areaName.toLowerCase().includes(area) &&
+            squirrel.parkName.toLowerCase().includes(park) &&
+            squirrel.furColor.toLowerCase().includes(color) &&
+            squirrel.squirrelId.toLowerCase().includes(squirrelId)
+        );
+
+        currentPage = 1;
+        updateTable();
+      }
+
+      function sortSquirrels(field) {
+        if (currentSort.field === field) {
+          currentSort.direction =
+            currentSort.direction === "asc" ? "desc" : "asc";
+        } else {
+          currentSort.field = field;
+          currentSort.direction = "asc";
+        }
+
+        filteredSquirrels.sort((a, b) => {
+          let aVal = String(a[field]).toLowerCase();
+          let bVal = String(b[field]).toLowerCase();
+          return currentSort.direction === "asc"
+            ? aVal.localeCompare(bVal)
+            : bVal.localeCompare(aVal);
+        });
+
+        updateTable();
+      }
+
+      function updateTable() {
+        const tbody = document.querySelector("#squirrelTable tbody");
+        const startIndex = (currentPage - 1) * itemsPerPage;
+        const endIndex = startIndex + itemsPerPage;
+        const pageSquirrels = filteredSquirrels.slice(startIndex, endIndex);
+
+        tbody.innerHTML = pageSquirrels
+          .map(
+            (squirrel, index) => `
+                <tr>
+                    <td>${squirrel.id}</td>
+                    <td>${squirrel.squirrelId}</td>
+                    <td>${squirrel.areaId}</td>
+                    <td>${squirrel.areaName}</td>
+                    <td>${squirrel.parkId}</td>
+                    <td>${squirrel.parkName}</td>
+                    <td>${squirrel.furColor}</td>
+                    <td>${squirrel.location}</td>
+                    <td>${squirrel.activities}</td>
+                    <td>${squirrel.interactions}</td>
+                    <td>${squirrel.notes}</td>
+                    <td class="action-buttons">
+                        <button onclick="updateSquirrel(${JSON.stringify(
+                          squirrel
+                        ).replace(/"/g, "&quot;")})">Edit</button>
+                        <button class="delete-btn" onclick="deleteSquirrel('${
+                          squirrel.id
+                        }')">Delete</button>
+                    </td>
+                </tr>
+            `
+          )
+          .join("");
+
+        updatePagination();
+      }
+
+      function updatePagination() {
+        const totalPages = Math.ceil(filteredSquirrels.length / itemsPerPage);
+        document.getElementById(
+          "pageInfo"
+        ).textContent = `Page ${currentPage} of ${totalPages}`;
+        document.getElementById("prevPage").disabled = currentPage === 1;
+        document.getElementById("nextPage").disabled =
+          currentPage === totalPages;
+      }
+
+      // Event Listeners
+      document.querySelectorAll(".filters input").forEach((input) => {
+        input.addEventListener("input", filterSquirrels);
+      });
+
+      document.querySelectorAll("th[data-sort]").forEach((th) => {
+        th.addEventListener("click", () => sortSquirrels(th.dataset.sort));
+      });
+
+      document.getElementById("prevPage").addEventListener("click", () => {
+        if (currentPage > 1) {
+          currentPage--;
+          updateTable();
+        }
+      });
+
+      document.getElementById("nextPage").addEventListener("click", () => {
+        const totalPages = Math.ceil(filteredSquirrels.length / itemsPerPage);
+        if (currentPage < totalPages) {
+          currentPage++;
+          updateTable();
+        }
+      });
+
+      // Initial load
+      fetchSquirrels();
+    </script>
+  </body>
+</html>

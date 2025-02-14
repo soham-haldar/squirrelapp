@@ -1,0 +1,434 @@
+Area Name,Area ID,Park Name,Park ID,Squirrel ID,Primary Fur Color,Location,Activities,Interactions with Humans,Other Notes or Observations
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-01,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-02,Gray,Ground Plane,Foraging,Indifferent,Looks skinny
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-03,Gray,Ground Plane,"Eating, Digging something",Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-04,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-05,Gray,Ground Plane,"Running, Eating",Indifferent,She left food
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-06,Gray,Ground Plane,Climbing,Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-07,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-08,Black,Above Ground,Climbing,Runs From,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-09,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-10,Gray,Ground Plane,"Eating, Digging",Indifferent,N/A
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-11,Gray,Ground Plane,"Eating, Digging",Indifferent,was intimidated by a dog
+UPPER MANHATTAN,A,Fort Tryon Park,1,A-01-12,Gray,Ground Plane,Running,Runs From,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-01,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-02,Gray,Above Ground,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-03,Gray,Ground Plane,Foraging,N/A,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-04,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-05,Gray,Ground Plane,Running,Runs From,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-06,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-07,Gray,Ground Plane,N/A,Runs From,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-08,Gray,Ground Plane,"Foraging, Nesting/gathering leaves",Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-09,Gray,Ground Plane,Chasing,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-10,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-11,Gray,Ground Plane,Eating,Runs From,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-12,Gray,Above Ground,Climbing,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-13,Gray,Above Ground,Sleeping,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-14,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-15,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-16,Gray,Above Ground,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-17,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-18,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-19,Gray,Above Ground,Climbing,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-20,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-21,Gray,Ground Plane,Foraging,Runs From,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-22,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-23,Gray,Above Ground,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,J. Hood Wright Park,2,A-02-24,Cinnamon,Above Ground,Sitting,Indifferent,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-01,Gray,Above Ground,"Chasing, Climbing",Watches us from tree,#1 and #2 chasing each other
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-02,Gray,Above Ground,"Chasing, Climbing, Eating",Runs From,#1 and #2 chasing each other
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-03,Gray,Above Ground,Running,N/A,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-04,Gray,Above Ground,Climbing,N/A,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-05,Gray,Ground Plane,Running,Runs From,"#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-06,Gray,Above Ground,Running,"Runs From, watchful","#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-07,Gray,Above Ground,Running,Runs From,"#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-08,Gray,Above Ground,"Running, Chasing, Climbing",Runs From,"#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-09,Gray,Above Ground,N/A,N/A,"#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-10,Gray,Ground Plane,"Climbing, Foraging",Watching us from tree - very interested in us,"Lots of garbage, near #8 & #9"
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-11,Gray,Above Ground,Vocalization at us,"Approaches, watching us",N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-12,Gray,Ground Plane,"Running, Foraging",Runs From,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-13,Gray,Ground Plane,Running,N/A,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-14,Gray,Ground Plane,"Running, Eating","Runs From, watches us in short tree",Loud sparrows in tree
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-15,Gray,Above Ground,Jumped to building,N/A,N/A
+UPPER MANHATTAN,A,Highbridge Park,3,A-03-16,Gray,Ground Plane,"Eating, Foraging",Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-01,Gray,Above Ground,Climbing,Indifferent,Jumping between
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-02,Black,Ground Plane,Foraging,Indifferent,Chasing #3
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-03,Gray,Ground Plane,Eating,Indifferent,Being chased by #2
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-04,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-05,Gray,Ground Plane,"Climbing, Eating",Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-06,Gray,Above Ground,"Chasing, Climbing",Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-07,Gray,Above Ground,"Chasing, Climbing",Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-08,Gray,Ground Plane,Running,Runs From,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-09,Gray,Ground Plane,Foraging,Indifferent,Wooded area
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-10,Gray,Ground Plane,Foraging,Indifferent,Wooded area
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-11,Black,Ground Plane,Foraging,Indifferent,Wooded area
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-12,Gray,Ground Plane,Foraging,Indifferent,Wooded area - would look but not fully approach
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-13,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-14,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,St. Nicholas Park,4,A-04-15,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-01,Gray,Ground Plane,"Running, up tree",Runs From,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-02,Gray,Ground Plane,"Running, up tree",Runs From,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-03,Gray,Ground Plane,"Running, up tree",Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-04,Gray,Ground Plane,Chasing,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-05,Gray,Ground Plane,Chasing,N/A,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-06,Gray,Above Ground,Sitting on branch,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-07,Gray,Ground Plane,"Running, up tree",Indifferent,Forever wild section
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-08,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-09,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-10,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-11,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-12,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-13,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-14,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-15,Gray,Ground Plane,Chasing,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-16,Gray,Ground Plane,Chasing,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-17,Gray,Ground Plane,Eating,Okay with people,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-18,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-19,Gray,Above Ground,Running,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-20,Gray,Ground Plane,Running,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-21,Gray,Ground Plane,N/A,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-22,Gray,Ground Plane,Chasing,N/A,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-23,Gray,Ground Plane,Chasing,N/A,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-24,Gray,N/A,Sitting at attention,N/A,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-25,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-26,Gray,Ground Plane,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-27,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Riverside Park (Section Near Grant Memorial),5,A-05-28,Gray,Ground Plane,Foraging,Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-01,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-02,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-03,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-04,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-05,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-06,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-07,Gray,Above Ground,Climbing,Indifferent,HAWK. HAAAAAWK. All in 1 tree.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-08,Black,Above Ground,Climbing,N/A,Defending the tree from the HAAAAWK. The bravest.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-09,Gray,Above Ground,"Chasing, Climbing, Eating",Indifferent,"2 were chasing each other through some short trees, others just sat"
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-10,Gray,Above Ground,"Chasing, Climbing, Eating",Indifferent,"2 were chasing each other through some short trees, others just sat"
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-11,Gray,Above Ground,"Chasing, Climbing, Eating",Indifferent,"2 were chasing each other through some short trees, others just sat"
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-12,Gray,Above Ground,"Chasing, Climbing, Eating",Indifferent,"2 were chasing each other through some short trees, others just sat"
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-13,Gray,Above Ground,Climbing,N/A,"Slid down a signpost while spinning. Other squirrels flung leaves at it, cheering."
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-14,Gray,Above Ground,"Climbing, Eating",N/A,Too far to observe human interactions
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-15,Gray,Above Ground,"Climbing, Eating",N/A,Too far to observe human interactions
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-16,Gray,Ground Plane,Running,N/A,Ran up the the 3rd baseline of a Little League field. Wrong way!
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-17,Gray,Ground Plane,Running,N/A,Scampered across path
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-18,Gray,Above Ground,"Sitting, shouting",Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-19,Gray,Above Ground,"Sitting, shouting",Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-20,Gray,Above Ground,"Sitting, shouting",Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-21,Gray,Above Ground,"Sitting, shouting",Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-22,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-23,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-24,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-25,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-26,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-27,Gray,Above Ground,"Defending tree, shouting","Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1â€“8. All gray.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-28,Gray,Above Ground,Eating,Indifferent,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-29,Gray,Above Ground,"Chasing, Climbing",Runs From,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-30,Gray,Above Ground,"Chasing, Climbing",Runs From,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-31,Gray,Above Ground,Climbing,N/A,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-32,Gray,Above Ground,Climbing,N/A,N/A
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-33,Black,Above Ground,Cleaning,N/A,Cleaning himself like a cat would.
+UPPER MANHATTAN,A,Marcus Garvey Park,6,A-06-34,Gray,Above Ground,Climbing,Runs From,N/A
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-01,Gray,Ground Plane,Foraging,Indifferent,Scar on forehead
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-02,Gray,Above Ground,Sitting,N/A,N/A
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-03,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-04,Gray,Above Ground,Resting in tree,N/A,N/A
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-05,Gray,Ground Plane,Running,Indifferent,"Many pigeons lounging on lawn, tourist taking picture"
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-06,Gray,Above Ground,Sitting,Indifferent,#6 & #7 in same tree
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-07,Gray,Above Ground,Sitting,Indifferent,"#6 & #7 in same tree - In general, visitors/people are trying to coax squirrels and take pictures. They are delighted to see squirrels."
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-08,Gray,Ground Plane,Foraging,Indifferent,Dog owners encouraging dogs to chase squirrels
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-09,Gray,Ground Plane,Foraging,Indifferent,Ran from base of tree to lawn about 20 feet away in search of food
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-10,Gray,Above Ground,"Climbing, Foraging",Indifferent,"First spotted in tree, then climbed down. Squirrel was small in stature."
+CENTRAL MANHATTAN,B,Madison Square Park,7,B-07-11,Gray,Ground Plane,"Running, Climbing, Foraging",Indifferent,"First seen on bench. Then jumped to ground, ran across path and onto lawn in search of food."
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-01,Cinnamon,Ground Plane,Climbing,Friendly,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-02,Gray,Ground Plane,"Running, Eating, Foraging",Indifferent,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-03,Cinnamon,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-04,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-05,Gray,Ground Plane,Digging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-06,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-07,Gray,Above Ground,"Climbing, Eating",N/A,Baby smaller
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-08,Gray,N/A,Climbing,N/A,Baby smaller
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-09,Gray,N/A,"Running, Digging",Runs From,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-10,Gray,Ground Plane,"Eating, Foraging","Indifferent, Staring",N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-11,Cinnamon,Ground Plane,Foraging,"Indifferent, Runs From (kids)",Ran away from kids and climbed up the tree
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-12,Gray,Ground Plane,"Eating, Foraging",N/A,Big
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-13,Cinnamon,N/A,Foraging,N/A,Big
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-14,Gray,Ground Plane,"Eating, Foraging",N/A,Big and chubby
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-15,Gray,Ground Plane,"Eating, Foraging",N/A,N/A
+CENTRAL MANHATTAN,B,Union Square Park,8,B-08-16,Cinnamon,Ground Plane,"Eating, Foraging",N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-01,Gray,Ground Plane,Foraging,Indifferent,Found nut and moved into tree
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-02,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-03,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-04,Gray,Ground Plane,Climbing,Runs From,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-05,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-06,Gray,Above Ground,"Climbing, Eating",Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-07,Gray,Ground Plane,Foraging,Approaches,"Curious, thinks we have food"
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-08,Gray,Ground Plane,Chasing,Indifferent,Being chased by #9
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-09,Gray,Ground Plane,Chasing,Indifferent,Chasing #8
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-10,Gray,Ground Plane,Foraging,Approaches,Expected food
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-11,Gray,Above Ground,Climbing,Indifferent,Juvenile? Playing with #12 in tree
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-12,Gray,Above Ground,Chasing,Indifferent,Juvenile? Playing with #11 in tree
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-13,Gray,Above Ground,Eating,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-14,Black,Above Ground,Eating,Approaches,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-15,Black,Above Ground,Eating,N/A,Far away
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-16,Black,Above Ground,N/A,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-17,Gray,Above Ground,Eating,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-18,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-19,Black,Above Ground,Grooming,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-20,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-21,Gray,Above Ground,N/A,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-22,Gray,Above Ground,N/A,N/A,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-23,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-24,Black,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Stuyvesant Square Park,9,B-09-25,Black,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-01,Gray,Ground Plane,Foraging,Indifferent,Sun
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-02,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-03,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-04,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-05,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-06,Gray,N/A,N/A,Indifferent,People eating at bench with dog
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-07,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-08,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-09,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-10,Gray,N/A,N/A,Indifferent,Shady
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-11,Gray,Above Ground,Nesting,Indifferent,In squirrel house (pic). Someone is trying to feed squirrel in house.
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-12,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-13,Gray,Ground Plane,Chasing,Indifferent,Chasing #15
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-14,Gray,Above Ground,Eating,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-15,Gray,N/A,Chasing,Indifferent,Being chased by #13
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-16,Gray,N/A,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-17,Gray,N/A,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-18,Gray,N/A,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-19,Gray,N/A,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-20,Gray,Ground Plane,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-21,Gray,Ground Plane,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-22,Gray,Ground Plane,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-23,Gray,Ground Plane,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-24,Gray,Ground Plane,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-25,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-26,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-27,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-28,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-29,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-30,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-31,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-32,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-33,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-34,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-35,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-36,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-37,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-38,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-39,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-40,Gray,Ground Plane,Foraging,Indifferent,Busy area
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-41,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-42,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-43,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-44,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-45,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-46,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-47,Gray,N/A,N/A,Indifferent,Sun
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-48,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-49,Gray,Above Ground,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-50,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Washington Square Park,10,B-10-51,Gray,N/A,N/A,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-01,Gray,Above Ground,Climbing,Runs From,"Nut in mouth, very fast moving"
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-02,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-03,Black,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-04,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-05,Gray,Ground Plane,Running,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-06,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-07,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-08,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-09,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-10,Gray,Above Ground,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-11,Gray,Above Ground,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-12,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-13,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-14,Gray,Ground Plane,Foraging,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-15,Gray,Above Ground,Climbing (down tree),Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-16,Gray,Above Ground,Climbing (down tree),Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-17,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-18,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-19,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-20,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-21,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-22,Gray,Above Ground,Sitting,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-23,Gray,Above Ground,Sitting (in tree hole),Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-24,Gray,Above Ground,Lounging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-25,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-26,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-27,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-28,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-29,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-30,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-31,Gray,Ground Plane,Running,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-32,Gray,Ground Plane,Foraging,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-33,Gray,Above Ground,Sitting,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-34,Gray,Above Ground,Climbing,Approaches,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-35,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-36,Gray,Above Ground,Climbing (down),Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-37,Gray,Above Ground,Climbing (down),Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-38,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-39,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-40,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-41,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-42,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-43,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-44,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-45,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-46,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-47,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-48,Black,Ground Plane,Foraging,Indifferent,They (#48 & #49) are fat.
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-49,Black,Ground Plane,Foraging,Indifferent,They (#48 & #49) are fat.
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-50,Gray,Ground Plane,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-51,Black,Ground Plane,Chasing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-52,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-53,Gray,Ground Plane,Foraging,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-54,Gray,Above Ground,Climbing,Indifferent,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-55,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-56,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-57,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-58,Gray,Ground Plane,Foraging,N/A,N/A
+CENTRAL MANHATTAN,B,Tompkins Square Park,11,B-11-59,Gray,Ground Plane,Foraging,N/A,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-01,Gray,Ground Plane,"Running, Eating",Indifferent,Nibbling on shrubs?
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-02,Black,Ground Plane,"Running, Eating (peanuts)",N/A,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-03,Gray,Ground Plane,"Climbing, Watching #2",Approaches,Siblings? (with #4) Playing (with #4) in fenced yard
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-04,Gray,Ground Plane,"Running, Chasing, Eating",N/A,Siblings? (with #3) Playing (with #3) in fenced yard
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-05,Gray,Ground Plane,"Eating, Foraging",Approaches,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-06,Gray,Ground Plane,"Eating, Foraging",Approaches,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-07,Gray,Ground Plane,"Climbing, Foraging",Indifferent,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-08,Gray,Ground Plane,"Climbing, Foraging",Indifferent,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-09,Gray,Above Ground,Climbing,N/A,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-10,Gray,Ground Plane,Eating,Approaches,N/A
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-11,Gray,Ground Plane,"Climbing, Eating, Foraging",Indifferent,Was very close to a dog and hid in a tree
+CENTRAL MANHATTAN,B,John V. Lindsay East River Park,12,B-12-12,Gray,Ground Plane,"Eating, Foraging",Runs From,N/A
+LOWER MANHATTAN,C,Seward Park,14,C-14-01,Gray,Ground Plane,Eating,Runs From,N/A
+LOWER MANHATTAN,C,Seward Park,14,C-14-02,Gray,Ground Plane,Eating,Indifferent,"Bushier and plump, big tail"
+LOWER MANHATTAN,C,Seward Park,14,C-14-03,Gray,Ground Plane,Foraging,Runs From,N/A
+LOWER MANHATTAN,C,Seward Park,14,C-14-04,Gray,Ground Plane,Climbing,Approaches,Looking to us for food! Climbed tree when we did not have any to give.
+LOWER MANHATTAN,C,Seward Park,14,C-14-05,Gray,Ground Plane,"Climbing, Foraging",Approaches,"Skinny tail, lots of digging, found an acorn and is eating"
+LOWER MANHATTAN,C,Seward Park,14,C-14-06,Gray,Ground Plane,"Running, Chasing",Indifferent,"Medium bushy, maybe a little younger, agile, sprightly"
+LOWER MANHATTAN,C,Seward Park,14,C-14-07,Gray,Ground Plane,"Running, Chasing",Indifferent,Too quick
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-01,Gray,Above Ground,"Running, Climbing, Eating",Runs From,Frantically zig-zagging whilst clutching a mid-afternoon snack
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-02,Gray,N/A,"Eating, Foraging",Indifferent,Digging in leaves carelessly
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-03,Gray,N/A,N/A,N/A,Multiple nut dives into the leaves; mostly successful
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-04,Gray,N/A,N/A,N/A,Playing tag with #5
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-05,Gray,N/A,N/A,N/A,Playing tag with #4
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-06,Gray,Above Ground,Ear scratching,N/A,N/A
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-07,Gray,Above Ground,N/A,N/A,N/A
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-08,Gray,N/A,Frolicking,N/A,Leaping from branch to branch
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-09,Gray,Above Ground,"Running, Climbing, Scratching",N/A,Meandering among the branches
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-10,Gray,Above Ground,"Running, Climbing",Approaches,"Came by to make sure we had proper Sighter buttons, looks like a Gerald"
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-11,Gray,Above Ground,Posing,Approaches,Timidly approached but ran from a passing pooch
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-12,Gray,Above Ground,Guarding,Defensive,Very upset that we spotted him accessing his tree-hole stash
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-13,Gray,Ground Plane,"Running, Chasing, Climbing",N/A,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog"
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-14,Gray,Ground Plane,"Running, Chasing, Climbing",N/A,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog"
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-15,Gray,Ground Plane,"Running, Chasing, Climbing",N/A,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog"
+LOWER MANHATTAN,C,Corlears Hook Park,15,C-15-16,Cinnamon,Above Ground,Foraging,Indifferent,So curious! A unique color and thirst for the unknown.
+LOWER MANHATTAN,C,Columbus Park,16,C-16-01,Gray,Ground Plane,"Climbing, Eating, Foraging",Approaches,"Boy, Alert â€” lots of basketball close by"
+LOWER MANHATTAN,C,Columbus Park,16,C-16-02,Gray,Ground Plane,"Running, Foraging",N/A,N/A
+LOWER MANHATTAN,C,Columbus Park,16,C-16-03,Gray,Above Ground,N/A,Indifferent,Nibbling on branches
+LOWER MANHATTAN,C,Columbus Park,16,C-16-04,Gray,Above Ground,Climbing,Approaches,Patchy â€”Â bald spots
+LOWER MANHATTAN,C,Teardrop Park,18,C-18-01,Gray,Ground Plane,"Running, Eating (or pretending to eat)",Runs From,"Ran up tree and down tree, tail vibration â€” not a flag or twitch, kuk sound"
+LOWER MANHATTAN,C,City Hall Park,19,C-19-01,Gray,Ground Plane,Foraging,N/A,N/A
+LOWER MANHATTAN,C,City Hall Park,19,C-19-02,Gray,Above Ground,Climbing,N/A,Chasing #3 up the tree
+LOWER MANHATTAN,C,City Hall Park,19,C-19-03,Gray,Above Ground,Climbing,N/A,Chasing #2 up the tree
+LOWER MANHATTAN,C,City Hall Park,19,C-19-04,Gray,Ground Plane,"Eating, Burying",Approaches,Very chubby cinnamon squirrel got peanuts from humans and buried them in leaves
+LOWER MANHATTAN,C,City Hall Park,19,C-19-05,Gray,Ground Plane,"Eating, Burying",Approaches,Couldn't find a good spot to bury theirs (peanuts from humans)
+LOWER MANHATTAN,C,City Hall Park,19,C-19-06,Gray,Ground Plane,Eating,Approaches,Being fed by people
+LOWER MANHATTAN,C,City Hall Park,19,C-19-07,Gray,Ground Plane,Eating,Approaches,Being fed by people
+LOWER MANHATTAN,C,City Hall Park,19,C-19-08,Gray,Ground Plane,Eating,Approaches,Came out to get peanut from human
+LOWER MANHATTAN,C,City Hall Park,19,C-19-09,Gray,Above Ground,"Climbing, Foraging","Indifferent, Runs From","Perched in a bush, watched us and scampered off to eat - very little squirrel"
+LOWER MANHATTAN,C,City Hall Park,19,C-19-10,Gray,Ground Plane,Running,Indifferent,N/A
+LOWER MANHATTAN,C,City Hall Park,19,C-19-11,Gray,Ground Plane,"Eating, Foraging",Indifferent,Found something to eat buried in leaves and then looked for more
+LOWER MANHATTAN,C,City Hall Park,19,C-19-12,Gray,Ground Plane,Very carefully watching a cat,Indifferent,N/A
+LOWER MANHATTAN,C,City Hall Park,19,C-19-13,Gray,Above Ground,Chattering,Indifferent,"High up in a tree, lots of talking"
+LOWER MANHATTAN,C,City Hall Park,19,C-19-14,Gray,Ground Plane,"Eating (nuts), Foraging","Approaches, Runs From",N/A
+LOWER MANHATTAN,C,City Hall Park,19,C-19-15,Gray,Ground Plane,Running,N/A,"Very active, darting around"
+LOWER MANHATTAN,C,City Hall Park,19,C-19-16,Gray,Above Ground,"Climbing, Foraging",Watching,"Perched on knot of tree, watching us, then started foraging"
+LOWER MANHATTAN,C,City Hall Park,19,C-19-17,Gray,Ground Plane,"Eating, Foraging",Indifferent,Successfully finding buried food
+LOWER MANHATTAN,C,City Hall Park,19,C-19-18,Gray,Ground Plane,"Eating, Foraging",Indifferent,"Rolling around in loose dirt with a ""swimming"" motion"
+LOWER MANHATTAN,C,Battery Park,20,C-20-01,Gray,Above Ground,N/A,Interested in,#1â€“5 all together being fed by humans
+LOWER MANHATTAN,C,Battery Park,20,C-20-02,Gray,Above Ground,"Climbing, Balancing on fencing",N/A,#1â€“5 all together being fed by humans - Hungry
+LOWER MANHATTAN,C,Battery Park,20,C-20-03,Gray,Ground Plane,N/A,Indifferent,"#1â€“5 all together being fed by humans, Had a ton of leaves in his mouth for several minutes"
+LOWER MANHATTAN,C,Battery Park,20,C-20-04,N/A,Ground Plane,N/A,Cautious of,#1â€“5 all together being fed by humans
+LOWER MANHATTAN,C,Battery Park,20,C-20-05,Gray,Above Ground,N/A,N/A,#1â€“5 all together being fed by humans
+LOWER MANHATTAN,C,Battery Park,20,C-20-06,Cinnamon,Ground Plane,"Chillin', Rubbing butt on ground",N/A,Seems left out
+LOWER MANHATTAN,C,Battery Park,20,C-20-07,Cinnamon,Ground Plane,Running,Runs From,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-08,Gray,Ground Plane,Foraging,N/A,Obviously a couple with #9
+LOWER MANHATTAN,C,Battery Park,20,C-20-09,Gray,Ground Plane,Foraging,N/A,Obviously a couple with #8
+LOWER MANHATTAN,C,Battery Park,20,C-20-10,Gray,Ground Plane,Running,Indifferent,Skinny with tiny ears
+LOWER MANHATTAN,C,Battery Park,20,C-20-11,Gray,Ground Plane,Foraging,Indifferent,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-12,Gray,Ground Plane,Foraging,Indifferent,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-13,Gray,Ground Plane,Eating,Indifferent,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-14,Gray,Above Ground,Sticking out of a tree,Indifferent,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-15,Gray,N/A,Chasing,N/A,"Flirty, chasing #16, also eating urban farm debris"
+LOWER MANHATTAN,C,Battery Park,20,C-20-16,Gray,N/A,Chasing,N/A,"Flirty, being chased by #15, also eating urban farm debris"
+LOWER MANHATTAN,C,Battery Park,20,C-20-17,Gray,N/A,Hangin' with #13 & #14,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-18,Gray,Ground Plane,N/A,N/A,Looks like he has a patch of fur missing on his back
+LOWER MANHATTAN,C,Battery Park,20,C-20-19,Gray,Above Ground,Climbing (tree),N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-20,Cinnamon,Ground Plane,N/A,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-21,Gray,Above Ground,Snacking in a tree,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-22,Cinnamon,Above Ground,N/A,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-23,Gray,N/A,Prancing about,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-24,Gray,Above Ground,Climbing fence,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-25,Gray,Above Ground,N/A,N/A,N/A
+LOWER MANHATTAN,C,Battery Park,20,C-20-26,Gray,Above Ground,Climbing fence,N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-01,Gray,Above Ground,battery,Staring,"Looks cold, not moving, lethargic"
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-02,Gray,Above Ground,"Climbing, Foraging, Self-cleaning",Indifferent,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-03,Gray,Ground Plane,Chasing,Approaches,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-04,Gray,Above Ground,Climbing,N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-05,Gray,Above Ground,Eating,N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-06,Gray,Ground Plane,Eating,Approaches,We fed him!
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-07,Gray,Above Ground,Climbing,N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-08,Gray,Ground Plane,Climbing (down),N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-09,Gray,Ground Plane,Climbing (down),N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-10,Gray,Ground Plane,Climbing (down),N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-11,Gray,Ground Plane,Climbing (down),N/A,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-12,Gray,Above Ground,Sitting,Indifferent,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-13,Gray,Ground Plane,Running,Runs From,N/A
+BROOKLYN,D,Msgr. McGolrick Park,21,D-21-14,Gray,Ground Plane,Running,Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-01,Cinnamon,Ground Plane,Eating,Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-02,Gray,Ground Plane,Eating,Approaches,N/A
+BROOKLYN,D,McCarren Park,22,D-22-03,Gray,Ground Plane,Running,Runs From,Ran in from baseball field
+BROOKLYN,D,McCarren Park,22,D-22-04,Gray,Above Ground,Climbing,Runs From,N/A
+BROOKLYN,D,McCarren Park,22,D-22-05,Cinnamon,Ground Plane,Running,Approaches,Running around
+BROOKLYN,D,McCarren Park,22,D-22-06,Cinnamon,Above Ground,Climbing,Approaches,Perched up â€” came close to us!
+BROOKLYN,D,McCarren Park,22,D-22-07,Cinnamon,Ground Plane,Chasing,Approaches,Skinny tail â€” was in the baseball field
+BROOKLYN,D,McCarren Park,22,D-22-08,Cinnamon,Ground Plane,Running,Runs From,N/A
+BROOKLYN,D,McCarren Park,22,D-22-09,Gray,Ground Plane,"Eating, Foraging",Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-10,Gray,Above Ground,Climbing,Runs From,Ran up a tree
+BROOKLYN,D,McCarren Park,22,D-22-11,Gray,Ground Plane,Running,Runs From,Ran out of park
+BROOKLYN,D,McCarren Park,22,D-22-12,Gray,Ground Plane,"Eating, Foraging",Indifferent,Birds walking nearby
+BROOKLYN,D,McCarren Park,22,D-22-13,Gray,Above Ground,Climbing,Indifferent,Ran from ground to tree
+BROOKLYN,D,McCarren Park,22,D-22-14,Cinnamon,Above Ground,"Climbing, Sitting in short tree",Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-15,Gray,Above Ground,Eating,Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-16,Cinnamon,Ground Plane,"Foraging, Jumping",Indifferent,Great jumper
+BROOKLYN,D,McCarren Park,22,D-22-17,Gray,Above Ground,Chilling,Indifferent,"Perched on branch, just hanging out"
+BROOKLYN,D,McCarren Park,22,D-22-18,Cinnamon,Above Ground,Hanging,Indifferent,Perched on branch
+BROOKLYN,D,McCarren Park,22,D-22-19,Cinnamon,Above Ground,"Running, Climbing",N/A,"Very small, climbed from one tree to another"
+BROOKLYN,D,McCarren Park,22,D-22-20,Gray,Above Ground,Climbing,Indifferent,"Small, on tree on branch, two others below it"
+BROOKLYN,D,McCarren Park,22,D-22-21,Gray,Above Ground,"Chasing, Climbing",Indifferent,"Started in middle of tree, started chasing others up in branches, jumped from branch to branch"
+BROOKLYN,D,McCarren Park,22,D-22-22,Gray,Above Ground,Climbing,Indifferent,One of three together on a tree
+BROOKLYN,D,McCarren Park,22,D-22-23,Gray,Above Ground,Climbing,Indifferent,Jumped from one tree to next
+BROOKLYN,D,McCarren Park,22,D-22-24,Gray,Ground Plane,"Eating, Foraging",Indifferent,Dog chased it up a tree
+BROOKLYN,D,McCarren Park,22,D-22-25,Gray,Ground Plane,Foraging,Skittish to humans,N/A
+BROOKLYN,D,McCarren Park,22,D-22-26,Gray,Ground Plane,"Running, Foraging",Indifferent,Fast
+BROOKLYN,D,McCarren Park,22,D-22-27,Gray,Ground Plane,"Eating (bread crumbs), Foraging",Indifferent,Near a lot of little birds
+BROOKLYN,D,McCarren Park,22,D-22-28,Gray,Ground Plane,Running,Indifferent,Running against fence
+BROOKLYN,D,McCarren Park,22,D-22-29,Gray,Ground Plane,Hanging out,Runs From,"Standing at base of tree, then climbed up"
+BROOKLYN,D,McCarren Park,22,D-22-30,Gray,Ground Plane,Foraging,Indifferent,N/A
+BROOKLYN,D,McCarren Park,22,D-22-31,Cinnamon,Ground Plane,Foraging,Indifferent,Walking around bushes
+BROOKLYN,D,McCarren Park,22,D-22-32,Gray,Ground Plane,Foraging,Indifferent,A little on the robust side
+BROOKLYN,D,McCarren Park,22,D-22-33,Gray,Ground Plane,Foraging,Indifferent,Busy digging for something
+BROOKLYN,D,McCarren Park,22,D-22-34,Cinnamon,Above Ground,Sleeping (Dead?),Indifferent,"It almost looks dead. Eyes open, curled up into itself in a nook in a tree with #35."
+BROOKLYN,D,McCarren Park,22,D-22-35,Cinnamon,Above Ground,Sleeping (Dead?),N/A,Curled up together with #34. One big furry ball of squirrel.
+BROOKLYN,D,McCarren Park,22,D-22-36,Cinnamon,Ground Plane,Eating (tortilla/chip),N/A,Pretty fat
+BROOKLYN,D,McCarren Park,22,D-22-37,Gray,Ground Plane,Running,Indifferent,"Turning around, trying to eat"
+BROOKLYN,D,McCarren Park,22,D-22-38,Gray,Ground Plane,Eating,N/A,Sitting next to #39 and eating
+BROOKLYN,D,McCarren Park,22,D-22-39,Gray,Ground Plane,Eating,N/A,Sitting next to #38 and eating
+BROOKLYN,D,McCarren Park,22,D-22-40,Cinnamon,Ground Plane,Foraging,Indifferent,Fluffy
+BROOKLYN,D,McCarren Park,22,D-22-41,Cinnamon,Above Ground,"Running, Foraging",Indifferent,Skinny
+BROOKLYN,D,McCarren Park,22,D-22-42,Gray,Above Ground,Climbing,Indifferent,Clinging to tree
+BROOKLYN,D,McCarren Park,22,D-22-43,Gray,Above Ground,"Running, Chasing, Climbing",Indifferent,Playing with another squirrel in a tree
+BROOKLYN,D,McCarren Park,22,D-22-44,Gray,Ground Plane,Foraging,Runs From,Ran very quickly
